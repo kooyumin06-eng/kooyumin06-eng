@@ -2,7 +2,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 My name is Koo Yu Min
 ===================================================================================================================================
 
-About Me
+🌟About Me
 --------
 
 Student of Bachelor in Computer Science (Graphic and Multimedia Software)
