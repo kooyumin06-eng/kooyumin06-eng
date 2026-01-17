@@ -9,7 +9,7 @@ Student of Bachelor in Computer Science (Graphic and Multimedia Software)
 
 * 🌍  I'm based in Malaysia
 * 🧠  Currently learning C++ and Java Language
-* 💬  Interested in graphic design and digital illustration
+* 💬  Interested in graphic design and game development
 * 👥  Passionate about creating visually engaging digital content
 
 ### Skills
