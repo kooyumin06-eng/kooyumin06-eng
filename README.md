@@ -2,7 +2,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 My name is Koo Yu Min
 ===================================================================================================================================
 
-🌟About Me
+About Me
 --------
 
 Student of Bachelor in Computer Science (Graphic and Multimedia Software)
@@ -32,6 +32,11 @@ Student of Bachelor in Computer Science (Graphic and Multimedia Software)
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/kooyumin06-eng" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/yuminnnnn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
+🌷Check out my portfolio:
+
+
+💫Check out my Linkedln:
 
 ### Badges
 
