@@ -36,7 +36,7 @@ Student of Bachelor in Computer Science (Graphic and Multimedia Software)
 🌷Check out my portfolio:
 
 
-💫Check out my Linkedln:
+💫Check out my Linkedln: https://www.linkedin.com/in/yuminnnnn/
 
 ### Badges
 
